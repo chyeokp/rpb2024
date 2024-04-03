@@ -1,1 +1,9 @@
-def main():
+def main(): 
+
+
+def add():
+
+
+
+def divide():
+    
